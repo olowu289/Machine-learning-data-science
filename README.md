@@ -1,4 +1,4 @@
-# Machine-learning-data-science
+# `EDMOSS` DATA SCIENCE AND MACHINE LEARNING COURSE 2022
 
 Welcome to this exicting course where we will be talking about Data science and Machine learning .
 
@@ -23,7 +23,7 @@ To get juputer notebook ready on our PC, click on the link below to get it insta
 For windows and mac
 https://www.youtube.com/watch?v=5mDYijMfSzs&t=31s
 
-for linux
+For linux
 https://www.youtube.com/watch?v=Yg9AkozItTU
 
 How can I go learn this course?
