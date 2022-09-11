@@ -30,7 +30,7 @@ How can I go learn this course?
 1. Follow along with the code
 2. Try it for yourself
 3. Search online 
-4. Read through docmentation (It might seems hard at first, but with time you will understand it
+4. Read through docmentation (It might seems hard at first, but with time you will understand it)
 5. Do the Exercises
 6. Write more codes
 
