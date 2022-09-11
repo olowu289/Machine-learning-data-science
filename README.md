@@ -1,4 +1,4 @@
-# `EDMOSS` DATA SCIENCE AND MACHINE LEARNING COURSE 2022
+# `EDMOSS DATA SCIENCE AND MACHINE LEARNING COURSE 2022`
 
 Welcome to this exicting course where we will be talking about Data science and Machine learning .
 
@@ -56,3 +56,5 @@ This course id for anyone that want to become a professinal in Data Science and 
 15. Deep learning for Image detection
 16. Application od Data Science and Machine learning
 17. External Reasourses to learn more 
+
+`HAPPY LEARNING`
