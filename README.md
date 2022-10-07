@@ -54,7 +54,7 @@ This course id for anyone that want to become a professinal in Data Science and 
 13. Image Detection
 14. Image preprocessing
 15. Deep learning for Image detection
-16. Application od Data Science and Machine learning
+16. Application of Data Science and Machine learning
 17. External Reasourses to learn more 
 
 `HAPPY LEARNING`
